@@ -2,4 +2,6 @@
 - create react app with Vite
 - tailwind installation
 - react router dom
-- navbar and home/createblog pages
+- navbar done
+- create blog page, style with tailwind
+- react icons

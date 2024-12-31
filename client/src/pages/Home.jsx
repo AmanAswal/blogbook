@@ -1,8 +1,8 @@
+import JournalCard from "../components/JournalCard";
+
 const Home = () => {
   return (
-    <div>
-      <h1>Hello world!</h1>
-    </div>
+      <JournalCard />
   );
 };
 

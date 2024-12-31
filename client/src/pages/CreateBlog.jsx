@@ -1,9 +1,11 @@
+import Form from "../components/Form"
+
 const CreateBlog = () => {
   return (
-    <div>
-      <h1>Create Blog</h1>
+    <div className=" flex justify-center">
+        <Form />
     </div>
-  )
-}
+  );
+};
 
-export default CreateBlog
+export default CreateBlog;
